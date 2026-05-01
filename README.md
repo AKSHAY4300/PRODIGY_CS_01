@@ -29,11 +29,3 @@ A Python-based command-line tool that implements the Caesar Cipher algorithm for
 - CLI (Command Line Interface)
 
 ---
-
-## ▶️ Getting Started
-
-### 1. Clone the repository
-
-```bash
-git clone https://github.com/your-username/caesar-cipher-cli.git
-cd caesar-cipher-cli
